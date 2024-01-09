@@ -8,8 +8,11 @@ body{
     box-sizing: border-box;
 }
 
+body{
+    background-image: url('IMG_2441.JPG');
+}
+
 .background-image {
- background-image: url('IMG_2441.JPG');
  height: 100%;
  background-position: center;
  background-repeat: no-repeat;
