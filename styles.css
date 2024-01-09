@@ -9,7 +9,7 @@ body{
 }
 
 body{
-    background-image: 'C:\Users\35679\Desktop/IMG_2441.png';
+    background-image: url("Pictures/IMG_2441.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
