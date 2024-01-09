@@ -32,6 +32,11 @@ body{
     color: white;
     text-decoration: none;
     margin: 0 10px;
+     opacity: 1;
+    transition: opacity 0.3s ease;
+        }
+.header a:hover {
+    opacity: 0.5;
         }
 .footer {
     position: relative;
@@ -42,16 +47,4 @@ body{
     font-family: 'Kollektif', sans-serif;
     color: white;
     font-size: 3em;
-        }
-.social-icons {
-    text-align: center;
-    padding-top: 10px;
-        }
-.social-icon {
-    display: inline-block;
-    opacity: 1;
-    transition: opacity 0.3s ease;
-        }
-.social-icon:hover {
-    opacity: 0.5;
         }
