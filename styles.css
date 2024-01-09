@@ -6,6 +6,7 @@ body{
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
+}
 
 .background-image {
  background-image: url('IMG_2441.JPG');
